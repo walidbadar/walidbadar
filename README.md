@@ -18,7 +18,9 @@ src="https://img.shields.io/twitter/follow/waleedbadar?logo=twitter&style=for-th
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Lang" /> </a>
+<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /> </a>
+
  
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask" /> </a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /> </a>
