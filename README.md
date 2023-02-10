@@ -10,7 +10,7 @@ Started with C/C++, in love with Python and the technologies based on it.
 * 🖥️  See my portfolio at [My Portfolio]
 * ✉️  You can contact me at [walid.badar@gmail.com](mailto:walid.badar@gmail.com)
 * 🧠  I'm learning Embedded Systems
-* 🤝  I'm open to collaborating on Embedded Systems Based Projects
+* 🤝  I'm open to collaborating on Embedded Systems and Industrial Automation Based Projects
 
 <a href="https://www.twitter.com/waleedbadar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/waleedbadar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
