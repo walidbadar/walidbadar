@@ -31,6 +31,11 @@ src="https://img.shields.io/twitter/follow/waleedbadar?logo=twitter&style=for-th
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
 </p>
 
-### Socials
+<h3 align="left">Development Boards:</h3>
+<p align="left">
+<a href="https://raspberrypi.org" target="_blank"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="raspberrypi" /> </a>
+<a href="https://espressif.com" target="_blank"> <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="espressif" /> </a>
+<a href="https://arduino.com" target="_blank"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" /> </a>
 
+<h3 align="left">Socials:</h3>
 <p align="left"> <a href="https://www.github.com/walidbadar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/waleed-badar-548b67106/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/waleedbadar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
