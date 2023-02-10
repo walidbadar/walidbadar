@@ -7,8 +7,7 @@ Embedded Systems | Python Developer
 Started with C/C++, in love with Python and the technologies based on it.
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [fiverr.com/walidbadar](https://www.fiverr.com/walidbadar)
-* ✉️  You can contact me at [walid.badar@gmail.com](mailto:walid.badar@gmail.com)
+* ✉️  You can contact me at my [Linkedin](https://www.linkedin.com/in/waleed-badar-548b67106/)
 * 🧠  I'm learning Embedded Systems
 * 🤝  I'm open to collaborating on Embedded Systems and Industrial Automation Based Projects
 
@@ -35,3 +34,6 @@ src="https://img.shields.io/twitter/follow/waleedbadar?logo=twitter&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/walidbadar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/waleed-badar-548b67106/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/waleedbadar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<!-- ### Work
+<a href="https://www.fiverr.com/walidbadar" target="_blank"> <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="fiverr" /> </a> -->
