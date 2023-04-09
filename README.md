@@ -7,7 +7,7 @@ Embedded Systems Engineer | Python Developer
 Started with C/C++, in love with Python and the technologies based on it.
 
 * 🌍  I'm based in Pakistan
-* ✉️  You can contact me at my [Linkedin](https://www.linkedin.com/in/waleed-badar-548b67106/)
+* ✉️  You can contact me at my [Linkedin](https://www.linkedin.com/in/waleed-badar/)
 * 🧠  I'm learning Embedded Systems
 * 🤝  I'm open to collaborating on Embedded Systems and Industrial Automation Based Projects
 
