@@ -1,4 +1,4 @@
-Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, My name is Waleed Badar
+Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, My name is Muhammad Waleed Badar
 ===================================
 
 Embedded Systems Engineer | Python Developer
