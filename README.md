@@ -8,7 +8,7 @@ Started with C/C++, in love with Python and the technologies based on it.
 
 * 🌍  I'm based in Pakistan.
 * ✉️  You can contact me at my [Linkedin](https://www.linkedin.com/in/waleed-badar/).
-* 🧠  I'm learning Embedded Systems.
+* 🧠  I'm learning Embedded Linux.
 * 🤝  I'm open to collaborating on Embedded Systems Based Projects.
 
 <a href="https://www.twitter.com/waleedbadar" target="_blank" rel="noreferrer"><img
