@@ -7,7 +7,7 @@ Embedded Systems Engineer | Python Developer
 Started with C/C++, in love with Python and the technologies based on it.
 
 * 🌍  I'm based in Pakistan.
-* ✉️  You can contact me at my [Upwork](https://www.upwork.com/freelancers/~01991c4101d211c7ec).
+* ✉️  You can contact me at my [Upwork Account](https://www.upwork.com/freelancers/~01991c4101d211c7ec).
 * 🧠  I'm learning Zephyr RTOS.
 * 🤝  I'm open to collaborating on Embedded Systems Based Projects.
 
