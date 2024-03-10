@@ -9,7 +9,7 @@ Started with C/C++, in love with Python and the technologies based on it.
 * 🌍  I'm based in Pakistan.
 * ✉️  You can contact me at [Upwork](https://www.upwork.com/freelancers/~01991c4101d211c7ec).
 * 🧠  I'm learning Zephyr RTOS.
-* 🤝  I'm open to collaborating on Embedded Systems Based Projects.
+* 🤝  I'm open to collaborating on Embedded Systems Projects.
 
 <a href="https://www.twitter.com/waleedbadar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/waleedbadar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
