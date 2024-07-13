@@ -3,7 +3,7 @@ Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 ### 🧑‍💻 whoami
 
-* 📡 I am an Embedded Systems Engineer
+* 📡  Embedded Systems Engineer
 * 🌍  I'm based in Pakistan.
 * ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/waleed-badar/).
 * 🧠  I'm learning Zephyr RTOS.
