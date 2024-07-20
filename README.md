@@ -3,11 +3,11 @@ Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 ### 🧑‍💻 whoami
 
-* 📡  Embedded Systems Engineer
-* 🌍  I'm based in Pakistan.
-* ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/waleed-badar/).
-* 🧠  I'm learning [Zephyr RTOS](https://zephyrproject.org/).
-* 🤝  I'm open to collaborating on Embedded Systems Projects.
+* 📡  **Embedded Systems Engineer**
+* 🌍  **I'm based in Pakistan.**
+* ✉️  **You can contact me at** [LinkedIn](https://www.linkedin.com/in/waleed-badar/).
+* 🧠  **I'm learning** [Zephyr RTOS](https://zephyrproject.org/).
+* 🤝  **I'm open to collaborating on Embedded Systems Projects.**
 
 <h3 align="left">🔨 Languages, Tools, and Frameworks:</h3>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://i.imgur.com/zINUxVf.png" align="left" alt="git" height='42px'/>
