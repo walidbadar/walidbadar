@@ -6,12 +6,11 @@ Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 * 📡  **Embedded Systems Engineer**
 * 🌍  **I'm based in Pakistan.**
 * ✉️  **You can contact me at** [LinkedIn](https://www.linkedin.com/in/waleed-badar/).
-* 🧠  **I'm learning** [Zephyr RTOS](https://zephyrproject.org/).
+* 🧠  **I'm learning** [Zephyr RTOS](https://zephyrproject.org/) 🪁.
 * 🤝  **I'm open to collaborating on Embedded Systems Projects.**
 
 <h3 align="left">🔨 Languages, Tools, and Frameworks:</h3>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://i.imgur.com/zINUxVf.png" align="left" alt="git" height='42px'/>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" align="left" alt="git" height='42px'/>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://docs.zephyrproject.org/latest/index.html"> <img src="https://avatars.githubusercontent.com/u/19595895?s=200&v=4" align="left" alt="git" height='50px'/>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
