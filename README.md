@@ -22,7 +22,7 @@ Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 <h3 align="left">💹 Github Stats:</h3>
 <div>
-  <a href="https://github.com/CharlesDias">
+  <a href="https://github.com/walidbadar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walidbadar&include_all_commits=true&show_icons=true&theme=dark-mode-only"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidbadar&count_private=true&layout=compact&theme=dark-mode-only"/>
 </div>
