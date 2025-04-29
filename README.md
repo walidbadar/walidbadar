@@ -4,7 +4,7 @@ Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 ### 🧑‍💻 whoami
 
 * 📡  **Embedded Systems Engineer**
-* 🌍  **I'm based in Pakistan.**
+* 🌍  **I am currently located in Pakistan.**
 * ✉️  **You can contact me at** [LinkedIn](https://www.linkedin.com/in/waleed-badar/).
 * 🧠  **I'm learning** [Zephyr RTOS](https://zephyrproject.org/) 🪁.
 * 🤝  **I'm open to collaborating on Embedded Systems Projects.**
