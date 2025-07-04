@@ -13,6 +13,7 @@ Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://i.imgur.com/zINUxVf.png" align="left" alt="git" height='42px'/>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://docs.zephyrproject.org/latest/index.html"> <img src="https://avatars.githubusercontent.com/u/19595895?s=200&v=4" align="left" alt="git" height='50px'/>
+<a href="https://https://docs.kernel.org"> <img src="https://docs.kernel.org/_static/logo.svg" align="left" alt="git" height='50px'/>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" align="left" alt="git" height='42px'/> </a>
