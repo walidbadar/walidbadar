@@ -27,6 +27,7 @@
 ### [The Zephyr Project](https://zephyrproject.org/)
 
 - [net: shell: add HTTP client shell commands](https://github.com/zephyrproject-rtos/zephyr/pull/106031)
+- [drivers: ethernet: add broadcom genet (Gigabit Ethernet) driver support](https://github.com/zephyrproject-rtos/zephyr/pull/113360)
 - [drivers: gpio: add raspberry pi bcm283x GPIO expander driver](https://github.com/zephyrproject-rtos/zephyr/pull/110788)
 - [drivers: display: add bcm2711 framebuffer display driver](https://github.com/zephyrproject-rtos/zephyr/pull/109522)
 - [drivers: mbox: add bcm2711 mbox controller driver](https://github.com/zephyrproject-rtos/zephyr/pull/107536)
