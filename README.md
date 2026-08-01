@@ -30,6 +30,7 @@
 ### [The Zephyr Project](https://zephyrproject.org/)
 
 - [net: shell: add HTTP client shell commands](https://github.com/zephyrproject-rtos/zephyr/pull/106031)
+- [drivers: pm_cpu_ops: add ARM64 spin-table boot protocol support](https://github.com/zephyrproject-rtos/zephyr/pull/114441)
 - [drivers: ethernet: add broadcom genet (Gigabit Ethernet) driver support](https://github.com/zephyrproject-rtos/zephyr/pull/113360)
 - [drivers: gpio: add raspberry pi bcm283x GPIO expander driver](https://github.com/zephyrproject-rtos/zephyr/pull/110788)
 - [drivers: display: add bcm2711 framebuffer display driver](https://github.com/zephyrproject-rtos/zephyr/pull/109522)
