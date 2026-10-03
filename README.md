@@ -30,6 +30,7 @@
 ### [The Zephyr Project](https://zephyrproject.org/)
 
 - [net: shell: add HTTP client shell commands](https://github.com/zephyrproject-rtos/zephyr/pull/106031)
+- [arch: arm: aarch32: enable SMP for ARMv7-R with a Cortex-R8 Renode target](https://github.com/zephyrproject-rtos/zephyr/pull/122596)
 - [drivers: pm_cpu_ops: add ARM64 spin-table boot protocol support](https://github.com/zephyrproject-rtos/zephyr/pull/114441)
 - [drivers: ethernet: add broadcom genet (Gigabit Ethernet) driver support](https://github.com/zephyrproject-rtos/zephyr/pull/113360)
 - [drivers: gpio: add raspberry pi bcm283x GPIO expander driver](https://github.com/zephyrproject-rtos/zephyr/pull/110788)
@@ -38,6 +39,7 @@
 - [drivers: i2c: add bcm2711 i2c controller driver](https://github.com/zephyrproject-rtos/zephyr/pull/105601)
 - [drivers: pinctrl: add bcm2711 pinctrl driver](https://github.com/zephyrproject-rtos/zephyr/pull/101008)
 - [soc: allwinner: add sun8i h3 soc support](https://github.com/zephyrproject-rtos/zephyr/pull/101532)
+- [boards: arm: fvp_base_revc_2xaem: add Cortex-A520 variant](https://github.com/zephyrproject-rtos/zephyr/pull/120560)
 - [boards: qemu: add arm cortex a72 board support](https://github.com/zephyrproject-rtos/zephyr/pull/109229)
 - [boards: aithinker: add board support for ESP32-CAM](https://github.com/zephyrproject-rtos/zephyr/pull/96326)
 - [samples: rtc: add sample app for rtc subsystem](https://github.com/zephyrproject-rtos/zephyr/pull/79078)
@@ -45,12 +47,12 @@
 
 
 ### 🎨 Some Hobby Projects of Mine:
+  
+- [zspot (Zephyr RTOS)](https://github.com/walidbadar/zspot) - A Spotify Connect player targeting Zephyr RTOS based devices.
+
+- [zpdf (Zephyr RTOS)](https://github.com/walidbadar/zpdf) - A PDF reader for Zephyr RTOS: a PDF parser and renderer as a Zephyr module.
+
 - [requests (Zephyr RTOS)](https://github.com/walidbadar/requests) - A libcurl-style API to perform common HTTP(S) operations.
-
-- [zlrclib (Zephyr RTOS)](https://github.com/walidbadar/zlrclib) - A firmware to show lyrics from [lrclib.net](https://lrclib.net) on tiny displays.
-
-- [Connected Home (Zephyr RTOS)](https://github.com/walidbadar/connected-home) - A MQTT Client to control home appliances.
-
 
 ### 💹 Github Stats:
 
